@@ -13,3 +13,4 @@ Each project is well-documented with clear explanations, source code, and live d
 |---| --------------------- | ---------------- |
 | # | [ANN Churn Classification](https://github.com/FaysalMiah55/ann-churn-classification) | [Live Demo](https://ann-churn-classification-n9i8zoga4maz8xu78undcz.streamlit.app/) |
 | # | [ANN Churn Regression](https://github.com/FaysalMiah55/ann-churn-regression) | [Live Demo](https://ann-churn-regression-c8vdeeuh8psefqbnxdfc5j.streamlit.app/) |
+| # | [Semi Autonomous Wheelchair with Real Time Object Detection](https://github.com/FaysalMiah55/semi-autonomous-wheelchair-with-real-time-object-detection) | 
