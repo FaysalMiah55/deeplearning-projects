@@ -15,3 +15,4 @@ Each project is well-documented with clear explanations, source code, and live d
 | # | [ANN Churn Regression](https://github.com/FaysalMiah55/ann-churn-regression) | [Live Demo](https://ann-churn-regression-c8vdeeuh8psefqbnxdfc5j.streamlit.app/) |
 | # | [Semi Autonomous Wheelchair with Real Time Object Detection](https://github.com/FaysalMiah55/semi-autonomous-wheelchair-with-real-time-object-detection) | 
 | # | [Patient’s Condition Classification Using Drug Reviews](https://github.com/FaysalMiah55/disease-condition-prediction) | 
+| # | [Potato Disease Classification](https://github.com/FaysalMiah55/potato-disease) | 
