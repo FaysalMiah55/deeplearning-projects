@@ -1,8 +1,8 @@
-# NLP LLM RAG Projects
+# Deep Learning Projects
 -------------------
-This repository contains a collection of my NLP, LLM, RAG projects, showcasing my data analysis, model building, and application development skills in the AI field. The projects are simple exploratory tasks to more complex AI models, including:
-- Machine learning algorithms
-- Natural language processing (NLP)
+This repository contains a collection of my Deep Learning projects, showcasing my data analysis, model building, and application development skills in the AI field. The projects are simple exploratory tasks to more complex AI models, including:
+- Deep learning algorithms
+- OpenCV
 - Real-time AI applications
   
 Each project is well-documented with clear explanations, source code, and live demo (deployed in Streamlit), allowing anyone to explore and learn from my work.
